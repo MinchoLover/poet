@@ -45,5 +45,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>AI 시인 앱이 시를 만들기 위해 사물을 인식하려면 카메라 접근 권한이 필요합니다.</string>
 </dict>
 </plist>
